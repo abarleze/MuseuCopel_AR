@@ -19,12 +19,19 @@ public class TesteBar : MonoBehaviour
     private InteractableBluePrint[] listaTotal;
     private float maxEnergyValue;
     private float totalHeight;
+    private RectTransform screenDimension;
 
     private void Awake()
     {
         listaTotal = Resources.LoadAll<InteractableBluePrint>("InteractableObjects");
         maxEnergyValue = GetEnergyMaxValue();
-        totalHeight = GetComponent<RectTransform>().rect.height;
+        screenDimension = GetComponent<RectTransform>();
+        screenDimension.sizeDelta = new Vector2(screenDimension.rect.width, (Screen.height * 1.15f));
+    }
+
+    private void Start()
+    {
+        totalHeight = screenDimension.rect.height;
     }
 
     private float GetEnergyMaxValue()

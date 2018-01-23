@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 96503b20270deb0468f4a299d04729a6
-timeCreated: 1516643954
+timeCreated: 1516728821
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -94,7 +94,7 @@ TextureImporter:
         width: 172
         height: 170
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -108,7 +108,7 @@ TextureImporter:
         width: 488
         height: 278
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -122,7 +122,7 @@ TextureImporter:
         width: 487
         height: 276
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -136,7 +136,7 @@ TextureImporter:
         width: 452
         height: 308
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -150,7 +150,7 @@ TextureImporter:
         width: 735
         height: 445
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -159,12 +159,12 @@ TextureImporter:
       name: Atlas_Copel_Menu_UI_004_6
       rect:
         serializedVersion: 2
-        x: 1151
-        y: 1048
-        width: 261
-        height: 463
+        x: 1040
+        y: 1151
+        width: 480
+        height: 270
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
