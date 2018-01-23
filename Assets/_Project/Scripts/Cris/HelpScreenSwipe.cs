@@ -100,19 +100,19 @@ public class HelpScreenSwipe : MonoBehaviour
         }
         #endregion
         //Teste pelas setas
-        //if (!swiping)
-        //{
-        //    if (Input.GetKeyDown(KeyCode.LeftArrow) && screenCount < totalScreens)
-        //    {
-        //        swiping = true;
-        //        MoveLeft();
-        //    }
-        //    if (Input.GetKeyDown(KeyCode.RightArrow) && screenCount > 0)
-        //    {
-        //        swiping = true;
-        //        MoveRight();
-        //    }
-        //}
+        if (!swiping)
+        {
+            if (Input.GetKeyDown(KeyCode.LeftArrow) && screenCount < totalScreens)
+            {
+                swiping = true;
+                MoveLeft();
+            }
+            if (Input.GetKeyDown(KeyCode.RightArrow) && screenCount > 0)
+            {
+                swiping = true;
+                MoveRight();
+            }
+        }
     }
 
     private void SpheresResetScale()

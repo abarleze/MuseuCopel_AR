@@ -11,6 +11,7 @@ public class HelpScreenDimension : MonoBehaviour {
         SetScreensDimension();
 
     }
+
     void SetScreensDimension()
     {
         int screenWidth = Screen.width * 2;
@@ -18,7 +19,11 @@ public class HelpScreenDimension : MonoBehaviour {
         {
             if (i > 0)
             {
-                screens[i].localPosition = new Vector3(screenWidth * i, 0, 0);
+                //Debug.Log("Screen: " + screenWidth * i);
+                //screens[i].localPosition = new Vector3(screenWidth * i, 0, 0);
+                screens[i].anchoredPosition = new Vector3(screenWidth * i, 0, 0);
+                //screens[i].offsetMin = new Vector2(position, 0);
+                //screens[i].offsetMax = new Vector2(Mathf.Sign(-position), 0);
             }
         }
     }

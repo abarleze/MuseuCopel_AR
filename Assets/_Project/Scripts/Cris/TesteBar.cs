@@ -26,7 +26,15 @@ public class TesteBar : MonoBehaviour
         listaTotal = Resources.LoadAll<InteractableBluePrint>("InteractableObjects");
         maxEnergyValue = GetEnergyMaxValue();
         screenDimension = GetComponent<RectTransform>();
-        screenDimension.sizeDelta = new Vector2(screenDimension.rect.width, (Screen.height * 1.15f));
+        if (Screen.height < 1000)
+        {
+            screenDimension.sizeDelta = new Vector2(screenDimension.rect.width, (Screen.height * 1.12f));
+        }
+        else
+        {
+            screenDimension.sizeDelta = new Vector2(screenDimension.rect.width, (Screen.height * 0.75f));
+        }
+        
     }
 
     private void Start()
