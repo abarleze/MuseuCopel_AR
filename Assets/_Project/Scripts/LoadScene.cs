@@ -15,8 +15,16 @@ public class LoadScene : MonoBehaviour
     {
         if (_isLoading)
             return;
-        
+
         StartCoroutine(LoadAsync(sceneName));
+
+        //sceneLoading.Raise();
+        //_isLoading = true;
+        //AsyncOperation op = SceneManager.LoadSceneAsync(sceneName);
+        //op.completed += (AsyncOperation obj) => {
+        //    sceneLoaded.Raise();
+        //    _isLoading = false;
+        //};
     }
 
     private IEnumerator LoadAsync(string sceneName)
@@ -31,12 +39,12 @@ public class LoadScene : MonoBehaviour
         sceneLoading.Raise();
         
         yield return new WaitForSeconds(minimumTransitionTime);
-
         if (!op.isDone)
             yield return null;
 
         sceneLoaded.Raise();
-        op.allowSceneActivation = true;
         _isLoading = false;
+
+        op.allowSceneActivation = true;
     }
 }
