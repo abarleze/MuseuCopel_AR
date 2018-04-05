@@ -5,7 +5,7 @@ public class IndividualEnergyViewer : MonoBehaviour
 {
     public FloatVariable energy;
     public Text text;
-    public FloatVariable multiplier;
+    public EnergyMultiplierVariable multiplier;
     public bool useMultiplier;
 
     private void OnEnable()
@@ -13,7 +13,7 @@ public class IndividualEnergyViewer : MonoBehaviour
         energy.onValueChange += UpdateView;
         if (useMultiplier)
         {
-            multiplier = Resources.Load<FloatVariable>("GlobalVariables/EnergyMultiplier");
+            multiplier = Resources.Load<EnergyMultiplierVariable>("GlobalVariables/EnergyMultiplier");
             multiplier.onValueChange += UpdateView;
         }
         UpdateView();

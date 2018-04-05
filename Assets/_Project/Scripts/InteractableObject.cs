@@ -18,6 +18,11 @@ public class InteractableObject : MonoBehaviour, IPointerClickHandler
 
     public void OnPointerClick(PointerEventData eventData)
     {
+        Toggle();
+    }
+
+    public void Toggle()
+    {
         interactableBluePrint.isOn = !interactableBluePrint.isOn;
 
         StopAllCoroutines();
