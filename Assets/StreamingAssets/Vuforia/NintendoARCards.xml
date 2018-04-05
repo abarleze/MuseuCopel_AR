@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Card06_Pikmin" size="0.055000 0.087005" />
+    <ImageTarget name="Card05_Samus" size="0.055000 0.087005" />
+    <ImageTarget name="Card04_Kirby" size="0.055000 0.087005" />
+    <ImageTarget name="Card03_Link" size="0.055000 0.087005" />
+    <ImageTarget name="Card02_Mario" size="0.055000 0.087005" />
+    <ImageTarget name="Card01_QuestionBlock" size="0.055000 0.087005" />
+  </Tracking>
+</QCARConfig>
