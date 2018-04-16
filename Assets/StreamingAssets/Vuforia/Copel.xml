@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Quadro" size="0.255000 0.255000" />
+    <ImageTarget name="001_A4_ComTextos" size="0.210000 0.210000" />
     <ImageTarget name="Blueprint_Usina" size="0.210000 0.210000" />
     <ImageTarget name="Teste05" size="1.000000 0.750000" />
     <ImageTarget name="Teste04" size="1.000000 0.750000" />
