@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 [CreateAssetMenu]
@@ -8,6 +9,8 @@ public class FloatSum : FloatVariable
     
     private void OnEnable()
     {
+        references = Resources.LoadAll<FloatVariable>("IndividualEnergy").ToList();
+
         if (references != null)
             foreach (var reference in references)
                 reference.onValueChange += CalculateValue;
