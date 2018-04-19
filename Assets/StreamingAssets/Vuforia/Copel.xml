@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="NeoCode03" size="1.500000 1.500000" />
+    <ImageTarget name="NeoCode02_2" size="1.500000 1.500000" />
+    <ImageTarget name="NeoCode02_1" size="1.500000 1.500000" />
+    <ImageTarget name="NeoCode02" size="1.500000 1.500000" />
+    <ImageTarget name="AR_COPEL_QR_004" size="1.500000 1.500000" />
+    <ImageTarget name="AR_COPEL_QR_003" size="1.500000 1.499154" />
+    <ImageTarget name="AR_COPEL_QR_002" size="1.500000 1.500000" />
+    <ImageTarget name="AR_COPEL_QR_001_1" size="1.500000 1.500000" />
+    <ImageTarget name="eletrodomesticos" size="1.500000 1.500000" />
+    <ImageTarget name="Batedeira" size="1.500000 1.500000" />
+    <ImageTarget name="NeoCode01" size="1.500000 1.500000" />
     <ImageTarget name="Quadro" size="0.255000 0.255000" />
     <ImageTarget name="001_A4_ComTextos" size="0.210000 0.210000" />
     <ImageTarget name="Blueprint_Usina" size="0.210000 0.210000" />

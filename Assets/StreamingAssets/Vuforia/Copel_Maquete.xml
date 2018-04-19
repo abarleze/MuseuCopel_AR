@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Lago" size="1.500000 1.500000" />
+    <ImageTarget name="Turbina" size="1.500000 1.500000" />
+    <ImageTarget name="Represa" size="1.500000 1.500000" />
+    <ImageTarget name="AreaUrbana" size="1.500000 1.500000" />
+    <ImageTarget name="AreaRural" size="1.500000 1.500000" />
+  </Tracking>
+</QCARConfig>

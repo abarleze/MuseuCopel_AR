@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: ca5ebd97f68abc94dae1dc6fe28bd3fc
+timeCreated: 1523903909
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Banco
+    100002: //RootNode
+    100004: Base
+    100006: Casa_1
+    100008: Casa_2
+    100010: Casa_3
+    100012: Copel
+    100014: Escola
+    100016: Estacao_1
+    100018: HorseHouse
+    100020: Hospital
+    100022: Lake
+    100024: Mercado
+    100026: pCube27
+    100028: pCube36
+    100030: pCube69
+    100032: Plantacao
+    100034: Predio_1
+    100036: Predio_2
+    100038: Predio_3
+    100040: Prefeitura
+    100042: Represa
+    100044: Streets
+    100046: Torre_1
+    100048: Torre_2
+    400000: Banco
+    400002: //RootNode
+    400004: Base
+    400006: Casa_1
+    400008: Casa_2
+    400010: Casa_3
+    400012: Copel
+    400014: Escola
+    400016: Estacao_1
+    400018: HorseHouse
+    400020: Hospital
+    400022: Lake
+    400024: Mercado
+    400026: pCube27
+    400028: pCube36
+    400030: pCube69
+    400032: Plantacao
+    400034: Predio_1
+    400036: Predio_2
+    400038: Predio_3
+    400040: Prefeitura
+    400042: Represa
+    400044: Streets
+    400046: Torre_1
+    400048: Torre_2
+    2100000: Mat_White
+    2100002: Mat_Concrete
+    2100004: DepthMask_
+    2100006: Visible_
+    2100008: COLOR_LAKE_
+    2100010: No Name
+    2100012: Green_
+    2100014: Mat_Sand
+    2100016: Mat_Black
+    2300000: Banco
+    2300002: Base
+    2300004: Casa_1
+    2300006: Casa_2
+    2300008: Casa_3
+    2300010: Copel
+    2300012: Escola
+    2300014: Estacao_1
+    2300016: HorseHouse
+    2300018: Hospital
+    2300020: Lake
+    2300022: Mercado
+    2300024: pCube27
+    2300026: pCube36
+    2300028: pCube69
+    2300030: Plantacao
+    2300032: Predio_1
+    2300034: Predio_2
+    2300036: Predio_3
+    2300038: Prefeitura
+    2300040: Represa
+    2300042: Streets
+    2300044: Torre_1
+    2300046: Torre_2
+    2300048: //RootNode
+    3300000: Banco
+    3300002: Base
+    3300004: Casa_1
+    3300006: Casa_2
+    3300008: Casa_3
+    3300010: Copel
+    3300012: Escola
+    3300014: Estacao_1
+    3300016: HorseHouse
+    3300018: Hospital
+    3300020: Lake
+    3300022: Mercado
+    3300024: pCube27
+    3300026: pCube36
+    3300028: pCube69
+    3300030: Plantacao
+    3300032: Predio_1
+    3300034: Predio_2
+    3300036: Predio_3
+    3300038: Prefeitura
+    3300040: Represa
+    3300042: Streets
+    3300044: Torre_1
+    3300046: Torre_2
+    3300048: //RootNode
+    4300000: Streets
+    4300002: Represa
+    4300004: Base
+    4300006: Lake
+    4300008: Estacao_1
+    4300010: pCube27
+    4300012: Plantacao
+    4300014: pCube36
+    4300016: Casa_3
+    4300018: pCube69
+    4300020: Banco
+    4300022: Escola
+    4300024: Hospital
+    4300026: Prefeitura
+    4300028: Predio_2
+    4300030: Predio_3
+    4300032: Predio_1
+    4300034: Casa_2
+    4300036: Mercado
+    4300038: Casa_1
+    4300040: Torre_2
+    4300042: Torre_1
+    4300044: HorseHouse
+    4300046: Copel
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

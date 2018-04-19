@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: c393855587151894fab8060990f0d10f
+timeCreated: 1520356242
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Banco
+    100002: Base
+    100004: Casa_1
+    100006: Casa_2
+    100008: Casa_3
+    100010: Copel
+    100012: Escola
+    100014: Estacao_1
+    100016: HorseHouse
+    100018: Hospital
+    100020: Lake
+    100022: //RootNode
+    100024: Mercado
+    100026: pCube27
+    100028: pCube36
+    100030: pCube69
+    100032: Plantacao
+    100034: polySurface5
+    100036: Ponte
+    100038: Predio_1
+    100040: Predio_2
+    100042: Predio_3
+    100044: Prefeitura
+    100046: Represa
+    100048: Streets
+    100050: Torre_1
+    100052: Torre_2
+    400000: Banco
+    400002: Base
+    400004: Casa_1
+    400006: Casa_2
+    400008: Casa_3
+    400010: Copel
+    400012: Escola
+    400014: Estacao_1
+    400016: HorseHouse
+    400018: Hospital
+    400020: Lake
+    400022: //RootNode
+    400024: Mercado
+    400026: pCube27
+    400028: pCube36
+    400030: pCube69
+    400032: Plantacao
+    400034: polySurface5
+    400036: Ponte
+    400038: Predio_1
+    400040: Predio_2
+    400042: Predio_3
+    400044: Prefeitura
+    400046: Represa
+    400048: Streets
+    400050: Torre_1
+    400052: Torre_2
+    2100000: No Name
+    2100002: Mat_CinzaClaro
+    2100004: Mat_Black
+    2100006: Green_
+    2100008: Mat_Sand
+    2100010: COLOR_LAKE_
+    2100012: Mat_Concrete
+    2100014: Mat_Grass
+    2100016: Mat_White
+    2300000: Banco
+    2300002: Base
+    2300004: Casa_1
+    2300006: Casa_2
+    2300008: Casa_3
+    2300010: Copel
+    2300012: Escola
+    2300014: Estacao_1
+    2300016: HorseHouse
+    2300018: Hospital
+    2300020: Lake
+    2300022: Mercado
+    2300024: pCube27
+    2300026: pCube36
+    2300028: pCube69
+    2300030: Plantacao
+    2300032: polySurface5
+    2300034: Ponte
+    2300036: Predio_1
+    2300038: Predio_2
+    2300040: Predio_3
+    2300042: Prefeitura
+    2300044: Represa
+    2300046: Streets
+    2300048: Torre_1
+    2300050: Torre_2
+    3300000: Banco
+    3300002: Base
+    3300004: Casa_1
+    3300006: Casa_2
+    3300008: Casa_3
+    3300010: Copel
+    3300012: Escola
+    3300014: Estacao_1
+    3300016: HorseHouse
+    3300018: Hospital
+    3300020: Lake
+    3300022: Mercado
+    3300024: pCube27
+    3300026: pCube36
+    3300028: pCube69
+    3300030: Plantacao
+    3300032: polySurface5
+    3300034: Ponte
+    3300036: Predio_1
+    3300038: Predio_2
+    3300040: Predio_3
+    3300042: Prefeitura
+    3300044: Represa
+    3300046: Streets
+    3300048: Torre_1
+    3300050: Torre_2
+    4300000: Copel
+    4300002: HorseHouse
+    4300004: Torre_1
+    4300006: Torre_2
+    4300008: Casa_1
+    4300010: Mercado
+    4300012: Casa_2
+    4300014: Predio_1
+    4300016: Predio_3
+    4300018: Predio_2
+    4300020: Prefeitura
+    4300022: Hospital
+    4300024: Escola
+    4300026: Banco
+    4300028: pCube69
+    4300030: Casa_3
+    4300032: pCube36
+    4300034: Plantacao
+    4300036: pCube27
+    4300038: Estacao_1
+    4300040: Lake
+    4300042: Base
+    4300044: polySurface5
+    4300046: Ponte
+    4300048: Streets
+    4300050: Represa
+    6400000: Banco
+    6400002: Base
+    6400004: Casa_1
+    6400006: Casa_2
+    6400008: Casa_3
+    6400010: Copel
+    6400012: Escola
+    6400014: Estacao_1
+    6400016: HorseHouse
+    6400018: Hospital
+    6400020: Lake
+    6400022: Mercado
+    6400024: pCube27
+    6400026: pCube36
+    6400028: pCube69
+    6400030: Plantacao
+    6400032: polySurface5
+    6400034: Ponte
+    6400036: Predio_1
+    6400038: Predio_2
+    6400040: Predio_3
+    6400042: Prefeitura
+    6400044: Represa
+    6400046: Streets
+    6400048: Torre_1
+    6400050: Torre_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: COLOR_LAKE_
+    second: {fileID: 2100000, guid: 70404ebe409381e43b63c84dca33078f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green_
+    second: {fileID: 2100000, guid: 302eb4c8867ee734e9ad81f06c8c7576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Black
+    second: {fileID: 2100000, guid: 5881d607780b3f946bf0957bbf042e57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_CinzaClaro
+    second: {fileID: 2100000, guid: f73641487dbe77f4990c6d7772df7c4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Concrete
+    second: {fileID: 2100000, guid: 7bde1a45e9611ad4596994ff907724e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Grass
+    second: {fileID: 2100000, guid: 35b5786d0d915e44792a9c91a73df5cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Sand
+    second: {fileID: 2100000, guid: 7110df5eaba602546a33f716940ddb12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_White
+    second: {fileID: 2100000, guid: 7d642f8a0f39df84090c4abb71b9dcaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b295438c6e453164585df55d6985c7d8, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
