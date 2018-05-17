@@ -7,6 +7,7 @@ public class AutoFocus : MonoBehaviour
 {
 	void Start ()
     {
+        // TODO: Test other tips of focus
         bool autofocusOK = CameraDevice.Instance.SetFocusMode(CameraDevice.FocusMode.FOCUS_MODE_CONTINUOUSAUTO);
         if (autofocusOK)
         {

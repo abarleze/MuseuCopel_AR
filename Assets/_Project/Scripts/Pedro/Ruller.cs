@@ -6,6 +6,7 @@ public class Ruller : MonoBehaviour
 {
     public Transform tip;
     public float crossWidth = 0.1f;
+    public Color color =  Color.white;
 
     void OnDrawGizmos()
     {
@@ -15,7 +16,7 @@ public class Ruller : MonoBehaviour
         if (tip == null)
             return;
 
-        Gizmos.color = Color.white;
+        Gizmos.color = color;
         Gizmos.DrawLine(transform.position, tip.position);
 
         Gizmos.color = Color.blue;
